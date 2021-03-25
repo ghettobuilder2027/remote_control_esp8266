@@ -5,7 +5,7 @@
 #define TOPIC "chauffage"
 MQTT myMqtt(CLIENT_ID, "192.168.1.30", 1883);
 
-const char* ssid     = "Freebox-1BF387";
+const char* ssid     = "";
 const char* password = "reformator*-adaquemus2-vineias-saporata29";
 
 void myDataCb(String& topic, String& data){
