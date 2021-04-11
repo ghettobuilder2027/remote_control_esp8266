@@ -2,8 +2,8 @@
 #include <PubSubClient.h>
  
 
-const char* ssid     = "Freebox-1BF387";
-const char* password = "reformator*-adaquemus2-vineias-saporata29";
+const char* ssid     = "";
+const char* password = "";
 const char* mqttServer = "192.168.1.30";
 const int mqttPort = 1883;
 const char* mqttUser = "chauffage";
